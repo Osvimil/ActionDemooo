@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionDemo</string>
+    <string name="video">VIDEO CHANGED</string>
+    <string name="pantalla">SCREEN CHANGED</string>
+    <string name="aprieta">CHECA LOS ICONOS</string>
+
+</resources>
